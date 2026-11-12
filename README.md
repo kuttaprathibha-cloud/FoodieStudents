@@ -1,21 +1,95 @@
-<<<<<<< HEAD
-# React + Vite
+# 🍽️ FoodieStudents
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Good Food, Happy Students!
 
-Currently, two official plugins are available:
+FoodieStudents is a student-friendly food website designed to help students discover delicious recipes, explore different food categories, and find affordable meal ideas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The main goal of this project is to make food exploration simple, enjoyable, and budget-friendly for students.
 
-## React Compiler
+## 🌟 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Home Page:** Welcome page with an attractive food-themed design.
+- **Food Categories:** Explore breakfast, lunch, dinner, and snacks.
+- **Popular Student Meals:** Discover affordable and delicious meal ideas.
+- **Food Images:** Visual presentation of different food items.
+- **Budget-Friendly Meals:** Meal suggestions with estimated prices.
+- **About Section:** Learn more about FoodieStudents.
+- **Responsive Design:** Supports desktop and mobile screen sizes.
 
-## Expanding the ESLint configuration
+## 💻 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# FoodieStudents
-A student-friendly food and recipe website built using React and Vite.
->>>>>>> 828f46dd75d96f44a9f24fb148bd0bfb15fb61a5
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+
+```text
+FoodieStudents/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/kuttaprathibha-cloud/FoodieStudents.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd FoodieStudents
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+**5. Open in browser**
+
+Open the localhost URL displayed in your terminal.
+
+## 🎯 Project Objective
+
+FoodieStudents aims to provide students with easy access to food ideas, simple recipes, and affordable meal options while making food exploration more interesting.
+
+## 🚀 Future Enhancements
+
+- Search recipes by food name.
+- Add detailed recipe ingredients and preparation steps.
+- Add more budget-friendly meal options.
+- Include recipe details and cooking instructions.
+- Add interactive food categories.
+
+## 👩‍💻 Developed By
+
+**Prathibha**
+
+GitHub: https://github.com/kuttaprathibha-cloud
+
+---
+
+*FoodieStudents – Making student life tastier, one meal at a time! ❤️*
